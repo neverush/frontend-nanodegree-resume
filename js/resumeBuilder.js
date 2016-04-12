@@ -3,29 +3,25 @@
  */
 
 var work = {
-    "jobs": [
-        {
-            "employer": "",
-            "title": "",
-            "location": "",
-            "dates": "",
-            "description": ""
-        }
-    ]
+    "jobs": [{
+        "employer": "",
+        "title": "",
+        "location": "",
+        "dates": "",
+        "description": ""
+    }]
 };
 
 var projects = {
-    "projects": [
-        {
-            "title": "",
-            "dates": "",
-            "images": [
-                "url",
-                "url2",
-                "url3"
-            ]
-        }
-    ]
+    "projects": [{
+        "title": "",
+        "dates": "",
+        "images": [
+            "url",
+            "url2",
+            "url3"
+        ]
+    }]
 };
 
 var skills = ["leadership", "CSS", "Web Design", "Web Development"];
@@ -50,18 +46,15 @@ var bio = {
 };
 
 var education = {
-    "schools": [
-        {
-            "name": "Monash University Malaysia",
-            "city": "Kuala Lumpur",
-            "degree": "Computer Science",
-            "major": "General"
-        },
-        {
-            "name": "Monash University Australia",
-            "city": "Clayton",
-            "degree": "Bachelor of Information Technology",
-            "major": "Application Development"
-        }
-    ]
+    "schools": [{
+        "name": "Monash University Malaysia",
+        "city": "Kuala Lumpur",
+        "degree": "Computer Science",
+        "major": "General"
+    }, {
+        "name": "Monash University Australia",
+        "city": "Clayton",
+        "degree": "Bachelor of Information Technology",
+        "major": "Application Development"
+    }]
 };
